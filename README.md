@@ -1,8 +1,8 @@
 # webpage
 My first static website about the ocean!
-![image](https://user-images.githubusercontent.com/47846960/177167123-bb38017c-f2c7-4490-8293-951658e91627.png)
-![image](https://user-images.githubusercontent.com/47846960/177167236-7c29fccf-e7fb-4a1a-ac67-43343596b214.png)
-![image](https://user-images.githubusercontent.com/47846960/177167289-aebd9086-b90d-41cc-a5b3-119da07e3297.png)
-![image](https://user-images.githubusercontent.com/47846960/177167418-58b47d5f-bf3c-45c6-b12f-e7da9988214b.png)
-![image](https://user-images.githubusercontent.com/47846960/177167472-f4e27922-3733-4488-9dc3-afba05738d93.png)
-![image](https://user-images.githubusercontent.com/47846960/177167645-9abfbf7b-5021-4ef3-8df5-e10e3145e219.png)
+![1](https://user-images.githubusercontent.com/47846960/177168766-f707e5d6-965f-414b-9a59-d181fe9136e6.png)
+![2](https://user-images.githubusercontent.com/47846960/177168976-b12cad8c-9a0d-4156-8102-9f318d360b49.png)
+![3](https://user-images.githubusercontent.com/47846960/177169104-55c06371-f8cc-434d-8c8e-7f4addcd55b2.png)
+![4](https://user-images.githubusercontent.com/47846960/177169122-2f4b4334-3f91-43d2-aad0-c8340d645a9c.png)
+![5](https://user-images.githubusercontent.com/47846960/177169270-874979b8-0930-4897-a02b-f1b1e7db5c34.png)
+![6](https://user-images.githubusercontent.com/47846960/177169365-e3187984-31a4-4503-ac2a-7606f34d0bbf.png)
